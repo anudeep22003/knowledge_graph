@@ -1,0 +1,8 @@
+name: knowldge_graph
+channels:
+  - conda-forge
+  - defaults
+  - pip
+  - pip:
+    - -r file:requirements.txt
+prefix: /opt/homebrew/anaconda3/envs/knowldge_graph

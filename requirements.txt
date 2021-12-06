@@ -1,0 +1,12 @@
+certifi==2021.10.8
+interchange==2021.0.4
+monotonic==1.6
+neo4j==4.4.0
+packaging==21.3
+pansi==2020.7.3
+py2neo==2021.2.3
+Pygments==2.10.0
+pyparsing==3.0.6
+pytz==2021.3
+six==1.16.0
+urllib3==1.26.7
